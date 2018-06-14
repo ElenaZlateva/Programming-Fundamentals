@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.deps.json
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.dll
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\bin\Debug\netcoreapp2.0\SquareArea.pdb
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.dll
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\SquareArea\obj\Debug\netcoreapp2.0\SquareArea.pdb

@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.deps.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\bin\Debug\netcoreapp2.0\8. Condense Array to Number.pdb
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\8. Condense Array to Number\obj\Debug\netcoreapp2.0\8. Condense Array to Number.pdb

@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.deps.json
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.dll
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\bin\Debug\netcoreapp2.0\10. Cube Properties.pdb
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.dll
+C:\Users\Elena Zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\10. Cube Properties\obj\Debug\netcoreapp2.0\10. Cube Properties.pdb

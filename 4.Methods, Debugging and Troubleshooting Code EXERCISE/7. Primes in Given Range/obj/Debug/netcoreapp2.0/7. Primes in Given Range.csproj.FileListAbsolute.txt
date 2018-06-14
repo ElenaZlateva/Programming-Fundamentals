@@ -1,0 +1,11 @@
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\bin\Debug\netcoreapp2.0\7. Primes in Given Range.deps.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\bin\Debug\netcoreapp2.0\7. Primes in Given Range.runtimeconfig.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\bin\Debug\netcoreapp2.0\7. Primes in Given Range.runtimeconfig.dev.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\bin\Debug\netcoreapp2.0\7. Primes in Given Range.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\bin\Debug\netcoreapp2.0\7. Primes in Given Range.pdb
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\obj\Debug\netcoreapp2.0\7. Primes in Given Range.csprojResolveAssemblyReference.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\obj\Debug\netcoreapp2.0\7. Primes in Given Range.csproj.CoreCompileInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\obj\Debug\netcoreapp2.0\7. Primes in Given Range.AssemblyInfoInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\obj\Debug\netcoreapp2.0\7. Primes in Given Range.AssemblyInfo.cs
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\obj\Debug\netcoreapp2.0\7. Primes in Given Range.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\7. Primes in Given Range\obj\Debug\netcoreapp2.0\7. Primes in Given Range.pdb

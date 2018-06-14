@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.deps.json
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.dll
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\bin\Debug\netcoreapp2.0\2. Append Lists.pdb
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.dll
+C:\Users\Elena Zlateva\source\repos\6.Lists\2. Append Lists\obj\Debug\netcoreapp2.0\2. Append Lists.pdb

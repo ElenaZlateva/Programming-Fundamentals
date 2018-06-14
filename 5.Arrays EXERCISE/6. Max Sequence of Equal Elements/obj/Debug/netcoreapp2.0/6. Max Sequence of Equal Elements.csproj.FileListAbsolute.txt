@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.deps.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.dll
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\bin\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.pdb
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.dll
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\6. Max Sequence of Equal Elements\obj\Debug\netcoreapp2.0\6. Max Sequence of Equal Elements.pdb

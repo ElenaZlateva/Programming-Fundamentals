@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\bin\Debug\netcoreapp2.0\4. Elevator.deps.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\bin\Debug\netcoreapp2.0\4. Elevator.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\bin\Debug\netcoreapp2.0\4. Elevator.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\bin\Debug\netcoreapp2.0\4. Elevator.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\bin\Debug\netcoreapp2.0\4. Elevator.pdb
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\obj\Debug\netcoreapp2.0\4. Elevator.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\obj\Debug\netcoreapp2.0\4. Elevator.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\obj\Debug\netcoreapp2.0\4. Elevator.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\obj\Debug\netcoreapp2.0\4. Elevator.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\obj\Debug\netcoreapp2.0\4. Elevator.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\4. Elevator\obj\Debug\netcoreapp2.0\4. Elevator.pdb

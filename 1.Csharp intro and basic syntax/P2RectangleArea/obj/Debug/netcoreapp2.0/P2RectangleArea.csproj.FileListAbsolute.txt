@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\bin\Debug\netcoreapp2.0\P2RectangleArea.deps.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\bin\Debug\netcoreapp2.0\P2RectangleArea.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\bin\Debug\netcoreapp2.0\P2RectangleArea.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\bin\Debug\netcoreapp2.0\P2RectangleArea.dll
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\bin\Debug\netcoreapp2.0\P2RectangleArea.pdb
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\obj\Debug\netcoreapp2.0\P2RectangleArea.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\obj\Debug\netcoreapp2.0\P2RectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\obj\Debug\netcoreapp2.0\P2RectangleArea.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\obj\Debug\netcoreapp2.0\P2RectangleArea.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\obj\Debug\netcoreapp2.0\P2RectangleArea.dll
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P2RectangleArea\obj\Debug\netcoreapp2.0\P2RectangleArea.pdb

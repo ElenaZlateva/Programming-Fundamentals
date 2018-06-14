@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\bin\Debug\netcoreapp2.0\7.CakeIngredients.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\bin\Debug\netcoreapp2.0\7.CakeIngredients.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\bin\Debug\netcoreapp2.0\7.CakeIngredients.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\bin\Debug\netcoreapp2.0\7.CakeIngredients.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\bin\Debug\netcoreapp2.0\7.CakeIngredients.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\obj\Debug\netcoreapp2.0\7.CakeIngredients.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\obj\Debug\netcoreapp2.0\7.CakeIngredients.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\obj\Debug\netcoreapp2.0\7.CakeIngredients.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\obj\Debug\netcoreapp2.0\7.CakeIngredients.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\obj\Debug\netcoreapp2.0\7.CakeIngredients.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\7.CakeIngredients\obj\Debug\netcoreapp2.0\7.CakeIngredients.pdb

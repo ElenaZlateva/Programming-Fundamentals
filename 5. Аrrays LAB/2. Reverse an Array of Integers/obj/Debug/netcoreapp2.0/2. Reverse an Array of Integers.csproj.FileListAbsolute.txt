@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.deps.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\bin\Debug\netcoreapp2.0\2. Reverse an Array of Integers.pdb
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\2. Reverse an Array of Integers\obj\Debug\netcoreapp2.0\2. Reverse an Array of Integers.pdb

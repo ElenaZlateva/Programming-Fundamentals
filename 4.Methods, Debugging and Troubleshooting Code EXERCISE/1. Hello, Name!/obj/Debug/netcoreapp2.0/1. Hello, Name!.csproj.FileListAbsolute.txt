@@ -1,0 +1,11 @@
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.deps.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.runtimeconfig.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.runtimeconfig.dev.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\bin\Debug\netcoreapp2.0\1. Hello, Name!.pdb
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.csprojResolveAssemblyReference.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.csproj.CoreCompileInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.AssemblyInfoInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.AssemblyInfo.cs
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\1. Hello, Name!\obj\Debug\netcoreapp2.0\1. Hello, Name!.pdb

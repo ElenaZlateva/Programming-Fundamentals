@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.deps.json
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.dll
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\bin\Debug\netcoreapp2.0\5. Array Manipulator.pdb
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.dll
+C:\Users\Elena Zlateva\source\repos\6. Lists\5. Array Manipulator\obj\Debug\netcoreapp2.0\5. Array Manipulator.pdb

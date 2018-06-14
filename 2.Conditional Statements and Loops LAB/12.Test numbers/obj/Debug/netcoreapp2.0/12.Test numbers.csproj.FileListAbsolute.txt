@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\bin\Debug\netcoreapp2.0\12.Test numbers.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\bin\Debug\netcoreapp2.0\12.Test numbers.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\bin\Debug\netcoreapp2.0\12.Test numbers.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\bin\Debug\netcoreapp2.0\12.Test numbers.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\bin\Debug\netcoreapp2.0\12.Test numbers.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\obj\Debug\netcoreapp2.0\12.Test numbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\obj\Debug\netcoreapp2.0\12.Test numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\obj\Debug\netcoreapp2.0\12.Test numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\obj\Debug\netcoreapp2.0\12.Test numbers.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\obj\Debug\netcoreapp2.0\12.Test numbers.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\12.Test numbers\obj\Debug\netcoreapp2.0\12.Test numbers.pdb

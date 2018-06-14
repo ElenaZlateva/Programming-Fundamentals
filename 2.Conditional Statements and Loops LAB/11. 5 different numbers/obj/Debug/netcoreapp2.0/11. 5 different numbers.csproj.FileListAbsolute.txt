@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\obj\Debug\netcoreapp2.0\11. 5 different numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\obj\Debug\netcoreapp2.0\11. 5 different numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\obj\Debug\netcoreapp2.0\11. 5 different numbers.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\bin\Debug\netcoreapp2.0\11. 5 different numbers.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\bin\Debug\netcoreapp2.0\11. 5 different numbers.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\bin\Debug\netcoreapp2.0\11. 5 different numbers.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\bin\Debug\netcoreapp2.0\11. 5 different numbers.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\bin\Debug\netcoreapp2.0\11. 5 different numbers.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\obj\Debug\netcoreapp2.0\11. 5 different numbers.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\obj\Debug\netcoreapp2.0\11. 5 different numbers.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\11. 5 different numbers\obj\Debug\netcoreapp2.0\11. 5 different numbers.csprojResolveAssemblyReference.cache

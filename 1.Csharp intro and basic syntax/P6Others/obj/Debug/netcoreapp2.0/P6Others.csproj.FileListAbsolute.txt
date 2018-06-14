@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\bin\Debug\netcoreapp2.0\P6Others.deps.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\bin\Debug\netcoreapp2.0\P6Others.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\bin\Debug\netcoreapp2.0\P6Others.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\bin\Debug\netcoreapp2.0\P6Others.dll
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\bin\Debug\netcoreapp2.0\P6Others.pdb
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\obj\Debug\netcoreapp2.0\P6Others.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\obj\Debug\netcoreapp2.0\P6Others.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\obj\Debug\netcoreapp2.0\P6Others.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\obj\Debug\netcoreapp2.0\P6Others.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\obj\Debug\netcoreapp2.0\P6Others.dll
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P6Others\obj\Debug\netcoreapp2.0\P6Others.pdb

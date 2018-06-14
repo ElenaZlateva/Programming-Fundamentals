@@ -1,0 +1,10 @@
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.deps.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\bin\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.pdb
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\3. Exact Sum of Real Numbers\obj\Debug\netcoreapp2.0\3. Exact Sum of Real Numbers.pdb

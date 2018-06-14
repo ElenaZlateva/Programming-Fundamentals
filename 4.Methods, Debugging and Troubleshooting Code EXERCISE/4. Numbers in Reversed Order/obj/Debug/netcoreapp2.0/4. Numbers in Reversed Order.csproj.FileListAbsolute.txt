@@ -1,0 +1,11 @@
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.deps.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.runtimeconfig.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.runtimeconfig.dev.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\bin\Debug\netcoreapp2.0\4. Numbers in Reversed Order.pdb
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.csprojResolveAssemblyReference.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.csproj.CoreCompileInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.AssemblyInfoInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.AssemblyInfo.cs
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\4. Numbers in Reversed Order\obj\Debug\netcoreapp2.0\4. Numbers in Reversed Order.pdb

@@ -1,0 +1,10 @@
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\bin\Debug\netcoreapp2.0\2. Sign of Integer Number.deps.json
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\bin\Debug\netcoreapp2.0\2. Sign of Integer Number.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\bin\Debug\netcoreapp2.0\2. Sign of Integer Number.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\bin\Debug\netcoreapp2.0\2. Sign of Integer Number.dll
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\bin\Debug\netcoreapp2.0\2. Sign of Integer Number.pdb
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\obj\Debug\netcoreapp2.0\2. Sign of Integer Number.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\obj\Debug\netcoreapp2.0\2. Sign of Integer Number.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\obj\Debug\netcoreapp2.0\2. Sign of Integer Number.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\obj\Debug\netcoreapp2.0\2. Sign of Integer Number.dll
+C:\Users\Elena Zlateva\source\repos\METHODS. DEBUGGING AND TROUBLESHOOTING CODE lab\2. Sign of Integer Number\obj\Debug\netcoreapp2.0\2. Sign of Integer Number.pdb

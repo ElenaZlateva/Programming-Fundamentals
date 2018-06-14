@@ -1,0 +1,10 @@
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.csproj.CoreCompileInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.AssemblyInfoInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.AssemblyInfo.cs
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.deps.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.runtimeconfig.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.runtimeconfig.dev.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.pdb
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit 2\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit 2.pdb

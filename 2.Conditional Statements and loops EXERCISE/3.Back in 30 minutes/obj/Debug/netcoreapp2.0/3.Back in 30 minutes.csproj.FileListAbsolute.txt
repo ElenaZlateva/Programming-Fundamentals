@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\bin\Debug\netcoreapp2.0\3.Back in 30 minutes.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\bin\Debug\netcoreapp2.0\3.Back in 30 minutes.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\bin\Debug\netcoreapp2.0\3.Back in 30 minutes.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\bin\Debug\netcoreapp2.0\3.Back in 30 minutes.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\bin\Debug\netcoreapp2.0\3.Back in 30 minutes.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\obj\Debug\netcoreapp2.0\3.Back in 30 minutes.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\obj\Debug\netcoreapp2.0\3.Back in 30 minutes.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\obj\Debug\netcoreapp2.0\3.Back in 30 minutes.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\obj\Debug\netcoreapp2.0\3.Back in 30 minutes.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\obj\Debug\netcoreapp2.0\3.Back in 30 minutes.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\3.Back in 30 minutes\obj\Debug\netcoreapp2.0\3.Back in 30 minutes.pdb

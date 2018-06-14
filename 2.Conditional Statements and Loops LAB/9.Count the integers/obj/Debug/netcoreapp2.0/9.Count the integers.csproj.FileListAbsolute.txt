@@ -1,0 +1,10 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\bin\Debug\netcoreapp2.0\9.Count the integers.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\bin\Debug\netcoreapp2.0\9.Count the integers.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\bin\Debug\netcoreapp2.0\9.Count the integers.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\bin\Debug\netcoreapp2.0\9.Count the integers.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\bin\Debug\netcoreapp2.0\9.Count the integers.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\obj\Debug\netcoreapp2.0\9.Count the integers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\obj\Debug\netcoreapp2.0\9.Count the integers.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\obj\Debug\netcoreapp2.0\9.Count the integers.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\obj\Debug\netcoreapp2.0\9.Count the integers.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\9.Count the integers\obj\Debug\netcoreapp2.0\9.Count the integers.pdb

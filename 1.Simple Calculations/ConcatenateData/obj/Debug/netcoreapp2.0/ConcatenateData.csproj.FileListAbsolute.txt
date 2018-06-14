@@ -1,0 +1,10 @@
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\bin\Debug\netcoreapp2.0\ConcatenateData.deps.json
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\bin\Debug\netcoreapp2.0\ConcatenateData.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\bin\Debug\netcoreapp2.0\ConcatenateData.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\bin\Debug\netcoreapp2.0\ConcatenateData.dll
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\bin\Debug\netcoreapp2.0\ConcatenateData.pdb
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\obj\Debug\netcoreapp2.0\ConcatenateData.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\obj\Debug\netcoreapp2.0\ConcatenateData.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\obj\Debug\netcoreapp2.0\ConcatenateData.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\obj\Debug\netcoreapp2.0\ConcatenateData.dll
+C:\Users\Elena Zlateva\source\repos\1.Simple Calculations\ConcatenateData\obj\Debug\netcoreapp2.0\ConcatenateData.pdb

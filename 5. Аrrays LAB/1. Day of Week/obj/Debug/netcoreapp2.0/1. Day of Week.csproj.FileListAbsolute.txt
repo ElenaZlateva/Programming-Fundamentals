@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.deps.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\bin\Debug\netcoreapp2.0\1. Day of Week.pdb
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\1. Day of Week\obj\Debug\netcoreapp2.0\1. Day of Week.pdb

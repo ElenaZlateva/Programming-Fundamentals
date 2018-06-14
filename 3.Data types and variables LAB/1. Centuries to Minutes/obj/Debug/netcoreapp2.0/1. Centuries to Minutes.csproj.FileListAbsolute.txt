@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.deps.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\bin\Debug\netcoreapp2.0\1. Centuries to Minutes.pdb
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables LAB\1. Centuries to Minutes\obj\Debug\netcoreapp2.0\1. Centuries to Minutes.pdb

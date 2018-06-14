@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.deps.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\bin\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.pdb
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\4. Variable in Hexadecimal Format\obj\Debug\netcoreapp2.0\4. Variable in Hexadecimal Format.pdb

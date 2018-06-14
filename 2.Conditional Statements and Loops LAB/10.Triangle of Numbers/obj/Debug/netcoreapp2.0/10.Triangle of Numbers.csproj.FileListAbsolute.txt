@@ -1,0 +1,10 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\obj\Debug\netcoreapp2.0\10.Triangle of Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\obj\Debug\netcoreapp2.0\10.Triangle of Numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\obj\Debug\netcoreapp2.0\10.Triangle of Numbers.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\bin\Debug\netcoreapp2.0\10.Triangle of Numbers.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\bin\Debug\netcoreapp2.0\10.Triangle of Numbers.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\bin\Debug\netcoreapp2.0\10.Triangle of Numbers.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\bin\Debug\netcoreapp2.0\10.Triangle of Numbers.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\bin\Debug\netcoreapp2.0\10.Triangle of Numbers.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\obj\Debug\netcoreapp2.0\10.Triangle of Numbers.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\10.Triangle of Numbers\obj\Debug\netcoreapp2.0\10.Triangle of Numbers.pdb

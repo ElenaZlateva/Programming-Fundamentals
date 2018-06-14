@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.deps.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.dll
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\bin\Debug\netcoreapp2.0\2. Rotate and Sum.pdb
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.dll
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\2. Rotate and Sum\obj\Debug\netcoreapp2.0\2. Rotate and Sum.pdb

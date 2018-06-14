@@ -1,0 +1,11 @@
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit.deps.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit.runtimeconfig.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit.runtimeconfig.dev.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\bin\Debug\netcoreapp2.0\3. English Name оf the Last Digit.pdb
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit.csprojResolveAssemblyReference.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit.csproj.CoreCompileInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit.AssemblyInfoInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit.AssemblyInfo.cs
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\3. English Name оf the Last Digit\obj\Debug\netcoreapp2.0\3. English Name оf the Last Digit.pdb

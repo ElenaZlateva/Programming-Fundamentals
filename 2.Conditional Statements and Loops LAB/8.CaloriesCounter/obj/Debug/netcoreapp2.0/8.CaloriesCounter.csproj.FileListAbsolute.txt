@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\bin\Debug\netcoreapp2.0\8.CaloriesCounter.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\bin\Debug\netcoreapp2.0\8.CaloriesCounter.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\bin\Debug\netcoreapp2.0\8.CaloriesCounter.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\bin\Debug\netcoreapp2.0\8.CaloriesCounter.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\bin\Debug\netcoreapp2.0\8.CaloriesCounter.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\obj\Debug\netcoreapp2.0\8.CaloriesCounter.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\obj\Debug\netcoreapp2.0\8.CaloriesCounter.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\obj\Debug\netcoreapp2.0\8.CaloriesCounter.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\obj\Debug\netcoreapp2.0\8.CaloriesCounter.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\obj\Debug\netcoreapp2.0\8.CaloriesCounter.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\8.CaloriesCounter\obj\Debug\netcoreapp2.0\8.CaloriesCounter.pdb

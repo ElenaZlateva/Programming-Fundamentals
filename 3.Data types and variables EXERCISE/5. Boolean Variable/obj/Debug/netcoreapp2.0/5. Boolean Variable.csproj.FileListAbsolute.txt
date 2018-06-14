@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.deps.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\bin\Debug\netcoreapp2.0\5. Boolean Variable.pdb
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.dll
+C:\Users\Elena Zlateva\source\repos\3.Data types and variables Exercise\5. Boolean Variable\obj\Debug\netcoreapp2.0\5. Boolean Variable.pdb

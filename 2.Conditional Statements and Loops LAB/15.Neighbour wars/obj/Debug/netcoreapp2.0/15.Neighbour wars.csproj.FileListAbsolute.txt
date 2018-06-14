@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\bin\Debug\netcoreapp2.0\15.Neighbour wars.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\bin\Debug\netcoreapp2.0\15.Neighbour wars.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\bin\Debug\netcoreapp2.0\15.Neighbour wars.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\bin\Debug\netcoreapp2.0\15.Neighbour wars.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\bin\Debug\netcoreapp2.0\15.Neighbour wars.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\obj\Debug\netcoreapp2.0\15.Neighbour wars.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\obj\Debug\netcoreapp2.0\15.Neighbour wars.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\obj\Debug\netcoreapp2.0\15.Neighbour wars.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\obj\Debug\netcoreapp2.0\15.Neighbour wars.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\obj\Debug\netcoreapp2.0\15.Neighbour wars.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and Loops_LAB\15.Neighbour wars\obj\Debug\netcoreapp2.0\15.Neighbour wars.pdb

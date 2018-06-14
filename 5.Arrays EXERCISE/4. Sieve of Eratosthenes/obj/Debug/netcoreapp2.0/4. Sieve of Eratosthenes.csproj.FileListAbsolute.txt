@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.deps.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.dll
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\bin\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.pdb
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.dll
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.pdb
+C:\Users\Elena Zlateva\source\repos\5.Arrays EXERCISE\4. Sieve of Eratosthenes\obj\Debug\netcoreapp2.0\4. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache

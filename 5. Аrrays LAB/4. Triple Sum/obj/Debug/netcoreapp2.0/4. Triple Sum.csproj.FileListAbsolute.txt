@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.deps.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\bin\Debug\netcoreapp2.0\4. Triple Sum.pdb
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\4. Triple Sum\obj\Debug\netcoreapp2.0\4. Triple Sum.pdb

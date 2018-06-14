@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\bin\Debug\netcoreapp2.0\P3MilesToKilometres.deps.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\bin\Debug\netcoreapp2.0\P3MilesToKilometres.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\bin\Debug\netcoreapp2.0\P3MilesToKilometres.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\bin\Debug\netcoreapp2.0\P3MilesToKilometres.dll
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\bin\Debug\netcoreapp2.0\P3MilesToKilometres.pdb
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\obj\Debug\netcoreapp2.0\P3MilesToKilometres.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\obj\Debug\netcoreapp2.0\P3MilesToKilometres.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\obj\Debug\netcoreapp2.0\P3MilesToKilometres.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\obj\Debug\netcoreapp2.0\P3MilesToKilometres.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\obj\Debug\netcoreapp2.0\P3MilesToKilometres.dll
+C:\Users\Elena Zlateva\source\repos\1.Csharp intro and basic syntax\P3MilesToKilometres\obj\Debug\netcoreapp2.0\P3MilesToKilometres.pdb

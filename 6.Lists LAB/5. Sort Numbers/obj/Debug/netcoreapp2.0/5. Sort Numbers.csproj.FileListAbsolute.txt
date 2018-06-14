@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.deps.json
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.dll
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\bin\Debug\netcoreapp2.0\5. Sort Numbers.pdb
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.dll
+C:\Users\Elena Zlateva\source\repos\6.Lists\5. Sort Numbers\obj\Debug\netcoreapp2.0\5. Sort Numbers.pdb

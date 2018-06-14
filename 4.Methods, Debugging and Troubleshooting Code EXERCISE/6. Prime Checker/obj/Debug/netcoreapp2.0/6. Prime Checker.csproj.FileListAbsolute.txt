@@ -1,0 +1,11 @@
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.deps.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.runtimeconfig.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.runtimeconfig.dev.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\bin\Debug\netcoreapp2.0\6. Prime Checker.pdb
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.csprojResolveAssemblyReference.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.csproj.CoreCompileInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.AssemblyInfoInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.AssemblyInfo.cs
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\6. Prime Checker\obj\Debug\netcoreapp2.0\6. Prime Checker.pdb

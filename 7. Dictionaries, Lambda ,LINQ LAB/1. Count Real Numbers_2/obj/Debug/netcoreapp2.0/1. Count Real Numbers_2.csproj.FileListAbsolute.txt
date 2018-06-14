@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\bin\Debug\netcoreapp2.0\1. Count Real Numbers_2.deps.json
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\bin\Debug\netcoreapp2.0\1. Count Real Numbers_2.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\bin\Debug\netcoreapp2.0\1. Count Real Numbers_2.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\bin\Debug\netcoreapp2.0\1. Count Real Numbers_2.dll
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\bin\Debug\netcoreapp2.0\1. Count Real Numbers_2.pdb
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\obj\Debug\netcoreapp2.0\1. Count Real Numbers_2.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\obj\Debug\netcoreapp2.0\1. Count Real Numbers_2.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\obj\Debug\netcoreapp2.0\1. Count Real Numbers_2.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\obj\Debug\netcoreapp2.0\1. Count Real Numbers_2.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\obj\Debug\netcoreapp2.0\1. Count Real Numbers_2.dll
+C:\Users\Elena Zlateva\source\repos\7. Dictionaries, Lambda LINQ\1. Count Real Numbers_2\obj\Debug\netcoreapp2.0\1. Count Real Numbers_2.pdb

@@ -1,0 +1,11 @@
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.deps.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.runtimeconfig.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.runtimeconfig.dev.json
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\bin\Debug\netcoreapp2.0\2. Max Method.pdb
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.csprojResolveAssemblyReference.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.csproj.CoreCompileInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.AssemblyInfoInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.AssemblyInfo.cs
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.dll
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\2. Max Method\obj\Debug\netcoreapp2.0\2. Max Method.pdb

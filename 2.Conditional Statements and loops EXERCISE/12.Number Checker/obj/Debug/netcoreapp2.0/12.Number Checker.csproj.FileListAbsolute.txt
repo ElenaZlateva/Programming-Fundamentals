@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\bin\Debug\netcoreapp2.0\12.Number Checker.deps.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\bin\Debug\netcoreapp2.0\12.Number Checker.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\bin\Debug\netcoreapp2.0\12.Number Checker.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\bin\Debug\netcoreapp2.0\12.Number Checker.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\bin\Debug\netcoreapp2.0\12.Number Checker.pdb
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\obj\Debug\netcoreapp2.0\12.Number Checker.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\obj\Debug\netcoreapp2.0\12.Number Checker.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\obj\Debug\netcoreapp2.0\12.Number Checker.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\obj\Debug\netcoreapp2.0\12.Number Checker.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\obj\Debug\netcoreapp2.0\12.Number Checker.dll
+C:\Users\Elena Zlateva\source\repos\2.Conditional Statements and loops\12.Number Checker\obj\Debug\netcoreapp2.0\12.Number Checker.pdb

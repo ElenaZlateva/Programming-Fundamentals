@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.deps.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\bin\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.pdb
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.dll
+C:\Users\Elena Zlateva\source\repos\5. Аrrays LAB\3. Last K Numbers Sums Sequence_2\obj\Debug\netcoreapp2.0\3. Last K Numbers Sums Sequence_2.pdb

@@ -1,0 +1,4 @@
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\8. Center Point\obj\Debug\netcoreapp2.0\8. Center Point.csprojResolveAssemblyReference.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\8. Center Point\obj\Debug\netcoreapp2.0\8. Center Point.csproj.CoreCompileInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\8. Center Point\obj\Debug\netcoreapp2.0\8. Center Point.AssemblyInfoInputs.cache
+c:\users\elena zlateva\source\repos\4.Methods, Debugging and Troubleshooting Code E\8. Center Point\obj\Debug\netcoreapp2.0\8. Center Point.AssemblyInfo.cs
