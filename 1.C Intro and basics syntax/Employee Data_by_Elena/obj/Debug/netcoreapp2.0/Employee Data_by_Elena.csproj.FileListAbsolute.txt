@@ -1,0 +1,10 @@
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\bin\Debug\netcoreapp2.0\Employee Data_by_Elena.deps.json
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\bin\Debug\netcoreapp2.0\Employee Data_by_Elena.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\bin\Debug\netcoreapp2.0\Employee Data_by_Elena.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\bin\Debug\netcoreapp2.0\Employee Data_by_Elena.dll
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\bin\Debug\netcoreapp2.0\Employee Data_by_Elena.pdb
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\obj\Debug\netcoreapp2.0\Employee Data_by_Elena.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\obj\Debug\netcoreapp2.0\Employee Data_by_Elena.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\obj\Debug\netcoreapp2.0\Employee Data_by_Elena.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\obj\Debug\netcoreapp2.0\Employee Data_by_Elena.dll
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\Employee Data_by_Elena\obj\Debug\netcoreapp2.0\Employee Data_by_Elena.pdb

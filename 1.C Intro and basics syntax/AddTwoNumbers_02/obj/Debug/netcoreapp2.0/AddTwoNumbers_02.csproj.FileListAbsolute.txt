@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\obj\Debug\netcoreapp2.0\AddTwoNumbers_02.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\obj\Debug\netcoreapp2.0\AddTwoNumbers_02.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\obj\Debug\netcoreapp2.0\AddTwoNumbers_02.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\obj\Debug\netcoreapp2.0\AddTwoNumbers_02.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\bin\Debug\netcoreapp2.0\AddTwoNumbers_02.deps.json
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\bin\Debug\netcoreapp2.0\AddTwoNumbers_02.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\bin\Debug\netcoreapp2.0\AddTwoNumbers_02.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\bin\Debug\netcoreapp2.0\AddTwoNumbers_02.dll
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\bin\Debug\netcoreapp2.0\AddTwoNumbers_02.pdb
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\obj\Debug\netcoreapp2.0\AddTwoNumbers_02.dll
+C:\Users\Elena Zlateva\source\repos\1.C Intro and basics syntax\AddTwoNumbers_02\obj\Debug\netcoreapp2.0\AddTwoNumbers_02.pdb
