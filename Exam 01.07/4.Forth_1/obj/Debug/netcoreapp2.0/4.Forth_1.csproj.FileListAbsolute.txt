@@ -1,0 +1,10 @@
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\bin\Debug\netcoreapp2.0\4.Forth_1.deps.json
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\bin\Debug\netcoreapp2.0\4.Forth_1.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\bin\Debug\netcoreapp2.0\4.Forth_1.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\bin\Debug\netcoreapp2.0\4.Forth_1.dll
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\bin\Debug\netcoreapp2.0\4.Forth_1.pdb
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\obj\Debug\netcoreapp2.0\4.Forth_1.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\obj\Debug\netcoreapp2.0\4.Forth_1.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\obj\Debug\netcoreapp2.0\4.Forth_1.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\obj\Debug\netcoreapp2.0\4.Forth_1.dll
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\4.Forth_1\obj\Debug\netcoreapp2.0\4.Forth_1.pdb

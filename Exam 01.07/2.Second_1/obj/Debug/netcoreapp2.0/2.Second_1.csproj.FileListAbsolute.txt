@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\obj\Debug\netcoreapp2.0\2.Second_1.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\obj\Debug\netcoreapp2.0\2.Second_1.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\obj\Debug\netcoreapp2.0\2.Second_1.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\obj\Debug\netcoreapp2.0\2.Second_1.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\bin\Debug\netcoreapp2.0\2.Second_1.deps.json
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\bin\Debug\netcoreapp2.0\2.Second_1.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\bin\Debug\netcoreapp2.0\2.Second_1.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\bin\Debug\netcoreapp2.0\2.Second_1.dll
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\bin\Debug\netcoreapp2.0\2.Second_1.pdb
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\obj\Debug\netcoreapp2.0\2.Second_1.dll
+C:\Users\Elena Zlateva\source\repos\Exam 01.07\2.Second_1\obj\Debug\netcoreapp2.0\2.Second_1.pdb

@@ -1,0 +1,10 @@
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\bin\Debug\netcoreapp2.0\4.ForceBook_2.deps.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\bin\Debug\netcoreapp2.0\4.ForceBook_2.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\bin\Debug\netcoreapp2.0\4.ForceBook_2.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\bin\Debug\netcoreapp2.0\4.ForceBook_2.dll
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\bin\Debug\netcoreapp2.0\4.ForceBook_2.pdb
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\obj\Debug\netcoreapp2.0\4.ForceBook_2.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\obj\Debug\netcoreapp2.0\4.ForceBook_2.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\obj\Debug\netcoreapp2.0\4.ForceBook_2.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\obj\Debug\netcoreapp2.0\4.ForceBook_2.dll
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\4.ForceBook_2\obj\Debug\netcoreapp2.0\4.ForceBook_2.pdb

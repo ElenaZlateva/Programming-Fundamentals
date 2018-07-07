@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\bin\Debug\netcoreapp2.0\1. Padawan equipment.deps.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\bin\Debug\netcoreapp2.0\1. Padawan equipment.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\bin\Debug\netcoreapp2.0\1. Padawan equipment.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\bin\Debug\netcoreapp2.0\1. Padawan equipment.dll
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\bin\Debug\netcoreapp2.0\1. Padawan equipment.pdb
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\obj\Debug\netcoreapp2.0\1. Padawan equipment.csprojResolveAssemblyReference.cache
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\obj\Debug\netcoreapp2.0\1. Padawan equipment.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\obj\Debug\netcoreapp2.0\1. Padawan equipment.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\obj\Debug\netcoreapp2.0\1. Padawan equipment.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\obj\Debug\netcoreapp2.0\1. Padawan equipment.dll
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\1. Padawan equipment\obj\Debug\netcoreapp2.0\1. Padawan equipment.pdb

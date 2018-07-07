@@ -1,0 +1,11 @@
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\bin\Debug\netcoreapp2.0\2. Kamino factory.deps.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\bin\Debug\netcoreapp2.0\2. Kamino factory.runtimeconfig.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\bin\Debug\netcoreapp2.0\2. Kamino factory.runtimeconfig.dev.json
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\bin\Debug\netcoreapp2.0\2. Kamino factory.dll
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\bin\Debug\netcoreapp2.0\2. Kamino factory.pdb
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\obj\Debug\netcoreapp2.0\2. Kamino factory.csproj.CoreCompileInputs.cache
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\obj\Debug\netcoreapp2.0\2. Kamino factory.AssemblyInfoInputs.cache
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\obj\Debug\netcoreapp2.0\2. Kamino factory.AssemblyInfo.cs
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\obj\Debug\netcoreapp2.0\2. Kamino factory.dll
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\obj\Debug\netcoreapp2.0\2. Kamino factory.pdb
+C:\Users\Elena Zlateva\source\repos\StarWarsExam\2. Kamino factory\obj\Debug\netcoreapp2.0\2. Kamino factory.csprojResolveAssemblyReference.cache
